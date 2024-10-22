@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Reacttask1/static/css/main.a4defa64.css",
+    "main.js": "/Reacttask1/static/js/main.54fd736d.js",
+    "static/media/fa-solid-900.ttf": "/Reacttask1/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/Reacttask1/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/Reacttask1/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/fa-brands-400.woff2": "/Reacttask1/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/Reacttask1/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/Reacttask1/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Reacttask1/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/tasklogo.jfif": "/Reacttask1/static/media/tasklogo.bac3800c413d931ab247.jfif",
+    "static/media/fa-v4compatibility.woff2": "/Reacttask1/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/rheem-1.svg": "/Reacttask1/static/media/rheem-1.a3deb7a655e080fb9d2d24881d49f2b5.svg",
+    "index.html": "/Reacttask1/index.html",
+    "main.a4defa64.css.map": "/Reacttask1/static/css/main.a4defa64.css.map",
+    "main.54fd736d.js.map": "/Reacttask1/static/js/main.54fd736d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4defa64.css",
+    "static/js/main.54fd736d.js"
+  ]
+}
